@@ -1,7 +1,12 @@
 # mexc-api-sdk
 
  MEXC Official Market and trade api sdk, easy to connection and send request to MEXC open api !
+## Install
+  ```npm install github:jsznb/mexc-sdk --save```
 ## Table of APIS
+- [mexc-api-sdk](#mexc-api-sdk)
+  - [Install](#install)
+  - [Table of APIS](#table-of-apis)
   - [Init](#init)
   - [Market](#market)
     - [Ping](#ping)
